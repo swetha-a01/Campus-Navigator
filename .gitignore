@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+ENV/
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+
+# Streamlit / local config
+.streamlit/secrets.toml
+
+# Environment and private files
+.env
+.env.*
+access.txt
+
+# Logs and temporary output
+*.log
+run_err*.txt
+st_err.txt
+diag*.txt
+test_out.txt
+piplist.txt
+pip_install.txt
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated caches
+cache/
+
+# Generated Python tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/

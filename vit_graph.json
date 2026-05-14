@@ -1,0 +1,655 @@
+{
+  "nodes": [
+    {
+      "id": "main_gate",
+      "name": "Main Gate",
+      "lat": 12.968233,
+      "lon": 79.155896
+    },
+    {
+      "id": "back_gate",
+      "name": "Back Gate",
+      "lat": 12.972728,
+      "lon": 79.168187
+    },
+    {
+      "id": "mb",
+      "name": "Main Building (MB) / Dr. MGR Block",
+      "lat": 12.96905,
+      "lon": 79.155838
+    },
+    {
+      "id": "tt",
+      "name": "Technology Tower (TT)",
+      "lat": 12.970895,
+      "lon": 79.159334
+    },
+    {
+      "id": "sjt",
+      "name": "Silver Jubilee Tower (SJT)",
+      "lat": 12.971241,
+      "lon": 79.163597
+    },
+    {
+      "id": "mgb",
+      "name": "Gandhi Block (MGB)",
+      "lat": 12.972358,
+      "lon": 79.167969
+    },
+    {
+      "id": "gdn",
+      "name": "G.D. Naidu Block (GDN)",
+      "lat": 12.96971,
+      "lon": 79.1548
+    },
+    {
+      "id": "health",
+      "name": "Health Care Centre",
+      "lat": 12.973393,
+      "lon": 79.159632
+    },
+    {
+      "id": "prp",
+      "name": "Pearl Research Park (PRP)",
+      "lat": 12.971139,
+      "lon": 79.166359
+    },
+    {
+      "id": "smv",
+      "name": "SMV Block",
+      "lat": 12.969234,
+      "lon": 79.157583
+    },
+    {
+      "id": "cdmm",
+      "name": "CDMM Building",
+      "lat": 12.969123,
+      "lon": 79.15516
+    },
+    {
+      "id": "cbmr",
+      "name": "CBMR Building",
+      "lat": 12.968413,
+      "lon": 79.159802
+    },
+    {
+      "id": "cts",
+      "name": "Centre for Technical Support (VIT - CTS)",
+      "lat": 12.97118740544007,
+      "lon": 79.15626877483938
+    },
+    {
+      "id": "men_q",
+      "name": "Men's Q Block",
+      "lat": 12.973802,
+      "lon": 79.164023
+    },
+    {
+      "id": "men_m",
+      "name": "Men's M Block",
+      "lat": 12.97271,
+      "lon": 79.164088
+    },
+    {
+      "id": "men_s",
+      "name": "Men's S Block",
+      "lat": 12.974336,
+      "lon": 79.165625
+    },
+    {
+      "id": "men_n",
+      "name": "Men's N Block",
+      "lat": 12.975285,
+      "lon": 79.164116
+    },
+    {
+      "id": "men_t",
+      "name": "Men's T Block",
+      "lat": 12.9748,
+      "lon": 79.165541
+    },
+    {
+      "id": "hostel_indoor",
+      "name": "Hostel Indoor",
+      "lat": 12.972187,
+      "lon": 79.159336
+    },
+    {
+      "id": "wh_a",
+      "name": "Indira Gandhi Block (WH-A)",
+      "lat": 12.968,
+      "lon": 79.153
+    },
+    {
+      "id": "wh_c",
+      "name": "Mother Teresa Block (WH-C)",
+      "lat": 12.9683,
+      "lon": 79.1528
+    },
+    {
+      "id": "lib",
+      "name": "Periyar EVR Central Library",
+      "lat": 12.969144654966886,
+      "lon": 79.1568638503527
+    },
+    {
+      "id": "auditorium",
+      "name": "Anna Auditorium",
+      "lat": 12.969791325790839,
+      "lon": 79.15565653417262
+    },
+    {
+      "id": "pool",
+      "name": "VIT Men's Swimming Pool",
+      "lat": 12.974431714330938,
+      "lon": 79.16075216760599
+    },
+    {
+      "id": "placement",
+      "name": "PAT Centre",
+      "lat": 12.9707,
+      "lon": 79.159
+    },
+    {
+      "id": "cdc",
+      "name": "Career Development Centre (CDC)",
+      "lat": 12.971065214422687,
+      "lon": 79.16405726276336
+    },
+    {
+      "id": "woodys",
+      "name": "Woodys",
+      "lat": 12.97042556227405,
+      "lon": 79.15743818444858
+    },
+    {
+      "id": "one_food_world",
+      "name": "One Food World",
+      "lat": 12.9725,
+      "lon": 79.162
+    },
+    {
+      "id": "darling",
+      "name": "Darling Canteen",
+      "lat": 12.970099864219828,
+      "lon": 79.1590845295658
+    },
+    {
+      "id": "allmart",
+      "name": "All Maart Shopping Complex",
+      "lat": 12.970132603997621,
+      "lon": 79.15429256477312
+    },
+    {
+      "id": "enzo",
+      "name": "Enzo Snacks & Books",
+      "lat": 12.9725,
+      "lon": 79.1645
+    },
+    {
+      "id": "canteen_gdn",
+      "name": "VIT GDN Canteen",
+      "lat": 12.9698,
+      "lon": 79.1549
+    },
+    {
+      "id": "canteen_sjt",
+      "name": "SJT Canteen",
+      "lat": 12.9711,
+      "lon": 79.1633
+    },
+    {
+      "id": "canteen_dc",
+      "name": "DC Canteen & Bakery",
+      "lat": 12.970070366610404,
+      "lon": 79.15889557660066
+    },
+    {
+      "id": "street_bites",
+      "name": "Street Bites",
+      "lat": 12.974765578399333,
+      "lon": 79.16408805612886
+    },
+    {
+      "id": "madras_coffee",
+      "name": "Madras Coffee House",
+      "lat": 12.972495167792987,
+      "lon": 79.1672725674331
+    },
+    {
+      "id": "osm_0",
+      "name": "Road",
+      "lat": 12.968231,
+      "lon": 79.155808
+    },
+    {
+      "id": "osm_1",
+      "name": "Road",
+      "lat": 12.968369,
+      "lon": 79.155892
+    },
+    {
+      "id": "osm_2",
+      "name": "Road",
+      "lat": 12.968687,
+      "lon": 79.15635
+    },
+    {
+      "id": "osm_3",
+      "name": "Road",
+      "lat": 12.968807,
+      "lon": 79.156567
+    },
+    {
+      "id": "osm_4",
+      "name": "Road",
+      "lat": 12.96964,
+      "lon": 79.156581
+    },
+    {
+      "id": "osm_5",
+      "name": "Road",
+      "lat": 12.96969,
+      "lon": 79.157399
+    },
+    {
+      "id": "osm_6",
+      "name": "Road",
+      "lat": 12.96979,
+      "lon": 79.158006
+    },
+    {
+      "id": "osm_7",
+      "name": "Road",
+      "lat": 12.969804,
+      "lon": 79.158188
+    },
+    {
+      "id": "osm_8",
+      "name": "Road",
+      "lat": 12.970573,
+      "lon": 79.158251
+    },
+    {
+      "id": "osm_9",
+      "name": "Road",
+      "lat": 12.970992,
+      "lon": 79.158354
+    },
+    {
+      "id": "osm_10",
+      "name": "Road",
+      "lat": 12.97101,
+      "lon": 79.15868
+    },
+    {
+      "id": "osm_11",
+      "name": "Road",
+      "lat": 12.971123,
+      "lon": 79.159762
+    },
+    {
+      "id": "osm_12",
+      "name": "Road",
+      "lat": 12.971344,
+      "lon": 79.161377
+    },
+    {
+      "id": "osm_13",
+      "name": "Road",
+      "lat": 12.971433,
+      "lon": 79.162266
+    },
+    {
+      "id": "osm_14",
+      "name": "Road",
+      "lat": 12.971713,
+      "lon": 79.163719
+    },
+    {
+      "id": "osm_15",
+      "name": "Road",
+      "lat": 12.971961,
+      "lon": 79.164401
+    },
+    {
+      "id": "osm_16",
+      "name": "Road",
+      "lat": 12.972557,
+      "lon": 79.166721
+    },
+    {
+      "id": "osm_17",
+      "name": "Road",
+      "lat": 12.972719,
+      "lon": 79.168306
+    },
+    {
+      "id": "osm_18",
+      "name": "Road",
+      "lat": 12.97178,
+      "lon": 79.160362
+    },
+    {
+      "id": "osm_19",
+      "name": "Road",
+      "lat": 12.972524,
+      "lon": 79.160886
+    },
+    {
+      "id": "osm_20",
+      "name": "Road",
+      "lat": 12.972877,
+      "lon": 79.163094
+    },
+    {
+      "id": "osm_21",
+      "name": "Road",
+      "lat": 12.974791,
+      "lon": 79.163779
+    },
+    {
+      "id": "osm_22",
+      "name": "Road",
+      "lat": 12.975302,
+      "lon": 79.163801
+    }
+  ],
+  "edges": [
+    {
+      "source": "osm_10",
+      "target": "osm_18",
+      "distance_m": 201.4
+    },
+    {
+      "source": "osm_4",
+      "target": "osm_5",
+      "distance_m": 88.8
+    },
+    {
+      "source": "osm_13",
+      "target": "osm_14",
+      "distance_m": 160.5
+    },
+    {
+      "source": "osm_1",
+      "target": "osm_2",
+      "distance_m": 60.9
+    },
+    {
+      "source": "osm_18",
+      "target": "osm_19",
+      "distance_m": 100.3
+    },
+    {
+      "source": "osm_6",
+      "target": "osm_7",
+      "distance_m": 19.8
+    },
+    {
+      "source": "osm_3",
+      "target": "osm_4",
+      "distance_m": 92.6
+    },
+    {
+      "source": "osm_5",
+      "target": "osm_6",
+      "distance_m": 66.7
+    },
+    {
+      "source": "osm_14",
+      "target": "osm_15",
+      "distance_m": 78.9
+    },
+    {
+      "source": "osm_9",
+      "target": "osm_10",
+      "distance_m": 35.4
+    },
+    {
+      "source": "osm_11",
+      "target": "osm_12",
+      "distance_m": 176.7
+    },
+    {
+      "source": "osm_7",
+      "target": "osm_8",
+      "distance_m": 85.8
+    },
+    {
+      "source": "osm_11",
+      "target": "osm_10",
+      "distance_m": 117.9
+    },
+    {
+      "source": "osm_2",
+      "target": "osm_3",
+      "distance_m": 27.0
+    },
+    {
+      "source": "osm_10",
+      "target": "osm_11",
+      "distance_m": 117.9
+    },
+    {
+      "source": "osm_21",
+      "target": "osm_22",
+      "distance_m": 56.9
+    },
+    {
+      "source": "osm_8",
+      "target": "osm_9",
+      "distance_m": 47.9
+    },
+    {
+      "source": "osm_12",
+      "target": "osm_13",
+      "distance_m": 96.8
+    },
+    {
+      "source": "osm_16",
+      "target": "osm_17",
+      "distance_m": 172.7
+    },
+    {
+      "source": "osm_19",
+      "target": "osm_20",
+      "distance_m": 242.5
+    },
+    {
+      "source": "osm_0",
+      "target": "osm_1",
+      "distance_m": 17.8
+    },
+    {
+      "source": "osm_20",
+      "target": "osm_21",
+      "distance_m": 225.4
+    },
+    {
+      "source": "osm_15",
+      "target": "osm_16",
+      "distance_m": 260.0
+    },
+    {
+      "source": "main_gate",
+      "target": "osm_0",
+      "distance_m": 9.5
+    },
+    {
+      "source": "tt",
+      "target": "osm_11",
+      "distance_m": 52.9
+    },
+    {
+      "source": "back_gate",
+      "target": "osm_17",
+      "distance_m": 12.9
+    },
+    {
+      "source": "mb",
+      "target": "osm_2",
+      "distance_m": 68.6
+    },
+    {
+      "source": "sjt",
+      "target": "osm_14",
+      "distance_m": 54.1
+    },
+    {
+      "source": "mgb",
+      "target": "osm_17",
+      "distance_m": 54.3
+    },
+    {
+      "source": "gdn",
+      "target": "osm_1",
+      "distance_m": 190.4
+    },
+    {
+      "source": "health",
+      "target": "osm_19",
+      "distance_m": 166.7
+    },
+    {
+      "source": "prp",
+      "target": "osm_16",
+      "distance_m": 162.5
+    },
+    {
+      "source": "smv",
+      "target": "osm_5",
+      "distance_m": 54.5
+    },
+    {
+      "source": "cdmm",
+      "target": "osm_1",
+      "distance_m": 115.4
+    },
+    {
+      "source": "cbmr",
+      "target": "osm_7",
+      "distance_m": 233.5
+    },
+    {
+      "source": "cts",
+      "target": "osm_4",
+      "distance_m": 175.4
+    },
+    {
+      "source": "men_q",
+      "target": "osm_21",
+      "distance_m": 113.1
+    },
+    {
+      "source": "men_m",
+      "target": "osm_15",
+      "distance_m": 89.9
+    },
+    {
+      "source": "men_s",
+      "target": "osm_21",
+      "distance_m": 206.3
+    },
+    {
+      "source": "men_n",
+      "target": "osm_22",
+      "distance_m": 34.2
+    },
+    {
+      "source": "men_t",
+      "target": "osm_21",
+      "distance_m": 190.9
+    },
+    {
+      "source": "hostel_indoor",
+      "target": "osm_18",
+      "distance_m": 120.0
+    },
+    {
+      "source": "wh_a",
+      "target": "osm_0",
+      "distance_m": 305.4
+    },
+    {
+      "source": "wh_c",
+      "target": "osm_0",
+      "distance_m": 326.0
+    },
+    {
+      "source": "lib",
+      "target": "osm_3",
+      "distance_m": 49.4
+    },
+    {
+      "source": "auditorium",
+      "target": "osm_4",
+      "distance_m": 101.6
+    },
+    {
+      "source": "pool",
+      "target": "osm_19",
+      "distance_m": 212.6
+    },
+    {
+      "source": "placement",
+      "target": "osm_10",
+      "distance_m": 48.9
+    },
+    {
+      "source": "cdc",
+      "target": "osm_15",
+      "distance_m": 33.0
+    },
+    {
+      "source": "woodys",
+      "target": "osm_5",
+      "distance_m": 81.9
+    },
+    {
+      "source": "one_food_world",
+      "target": "osm_19",
+      "distance_m": 120.7
+    },
+    {
+      "source": "darling",
+      "target": "osm_7",
+      "distance_m": 102.6
+    },
+    {
+      "source": "allmart",
+      "target": "osm_4",
+      "distance_m": 253.9
+    },
+    {
+      "source": "enzo",
+      "target": "osm_15",
+      "distance_m": 60.9
+    },
+    {
+      "source": "canteen_gdn",
+      "target": "osm_4",
+      "distance_m": 183.0
+    },
+    {
+      "source": "canteen_sjt",
+      "target": "osm_14",
+      "distance_m": 81.9
+    },
+    {
+      "source": "canteen_dc",
+      "target": "osm_7",
+      "distance_m": 82.2
+    },
+    {
+      "source": "street_bites",
+      "target": "osm_21",
+      "distance_m": 33.6
+    },
+    {
+      "source": "madras_coffee",
+      "target": "osm_16",
+      "distance_m": 60.2
+    }
+  ]
+}

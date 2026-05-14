@@ -1,0 +1,6 @@
+networkx==3.2.1
+numpy==1.26.4
+streamlit==1.33.0
+pandas==2.2.1
+pydeck==0.8.1b0
+osmnx==1.9.4
